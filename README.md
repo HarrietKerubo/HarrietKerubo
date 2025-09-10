@@ -1,4 +1,4 @@
-<h1>Hi, I'm Harriet! <br/> <a href="https://www.linkedin.com/in/harrietkerubo/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/#">YouTuber</a></h1>
+<h1>Hi, I'm Harriet! <br/> <a href="https://www.linkedin.com/in/harrietkerubo/">Cybersecurity Professional</a></h1>
 
 <h2>👩🏾‍💻 Cybersecurity Projects:</h2>
 
