@@ -1,6 +1,9 @@
-<h1>Hi, I'm Harriet! <br/> <a href="https://www.linkedin.com/in/harrietkerubo/">Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Harriet! <br/> <a href="https://www.linkedin.com/in/harrietkerubo/">Cybersecurity | Cloud Security</a></h1>
 
 <h2>👩🏾‍💻 Cybersecurity Projects:</h2>
+
+<h2> 👩🏾‍💻 Cloud Security Projects:</h2>
+https://github.com/HarrietKerubo/AWS_SECURE_VPC
 
 <h2> 🤓Certifications</h2>
 
