@@ -2,7 +2,7 @@
 
 <h2>👩🏾‍💻 Cybersecurity Projects:</h2>
 
-<h2> 👩🏾‍💻 Cloud Security Projects:</h2>
+<h2> 👩🏾‍💻 Cloud Security Projects and Articles:</h2>
 https://github.com/HarrietKerubo/AWS_SECURE_VPC
 
 <h2> 🤓Certifications</h2>
