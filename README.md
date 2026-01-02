@@ -1,8 +1,12 @@
 <h1>Hi, I'm Harriet! <br/> <a href="https://www.linkedin.com/in/harrietkerubo/">Cybersecurity | Cloud Security</a></h1>
 
-<h2> 👩🏾‍💻 Cloud Security Projects and Articles:</h2>
-https://github.com/HarrietKerubo/AWS_SECURE_VPC
-https://github.com/HarrietKerubo/AWS_IAM
+<h2> 👩🏾‍💻 Cloud Security Projects and Articles:</h2
+
+Secure cloud architecture: https://github.com/HarrietKerubo/AWS_SECURE_VPC
+
+Managing access with AWS IAM: https://github.com/HarrietKerubo/AWS_IAM
+
+Threat detection with Amazon GuardDuty: https://github.com/HarrietKerubo/Amazon_GuardDuty/blob/main/README.md
 
 <h2> 🤓Certifications</h2>
 
