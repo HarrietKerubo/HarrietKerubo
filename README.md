@@ -1,6 +1,6 @@
 <h1>Hi, I'm Harriet! <br/> <a href="https://www.linkedin.com/in/harrietkerubo/">Cybersecurity | Cloud Security</a></h1>
 
-## 👩🏾‍💻 Cloud Security Projects and Articles:
+## Cloud Security Projects and Articles:
 
 ### Projects
 
