@@ -6,7 +6,7 @@ Secure cloud architecture: https://github.com/HarrietKerubo/AWS_SECURE_VPC
 
 Managing access with AWS IAM: https://github.com/HarrietKerubo/AWS_IAM
 
-Threat detection with Amazon GuardDuty: https://github.com/HarrietKerubo/Amazon_GuardDuty/blob/main/README.md
+Threat detection with Amazon GuardDuty: https://github.com/HarrietKerubo/Amazon_GuardDuty
 
 <h2> 🤓Certifications</h2>
 
