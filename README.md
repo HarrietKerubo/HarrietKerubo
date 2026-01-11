@@ -10,6 +10,8 @@ Managing access with AWS IAM: https://github.com/HarrietKerubo/AWS_IAM
 
 Threat detection with Amazon GuardDuty: https://github.com/HarrietKerubo/Amazon_GuardDuty
 
+Preventing accidental exposure to sensitive credentials using AWS Secrets Manager; https://github.com/HarrietKerubo/AWS-SECRETS-MANAGER
+
 ### Articles
 
 https://www.linkedin.com/pulse/week-5-security-logging-monitoring-harriet-kerubo-ap78c
