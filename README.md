@@ -12,6 +12,8 @@ Threat detection with Amazon GuardDuty: https://github.com/HarrietKerubo/Amazon_
 
 Preventing accidental exposure to sensitive credentials using AWS Secrets Manager; https://github.com/HarrietKerubo/AWS-SECRETS-MANAGER
 
+Real-Time Monitoring for AWS Environment; https://github.com/HarrietKerubo/Monitoring-in-cloud
+
 ### Articles
 
 https://www.linkedin.com/pulse/week-5-security-logging-monitoring-harriet-kerubo-ap78c
