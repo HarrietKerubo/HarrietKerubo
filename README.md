@@ -18,6 +18,8 @@ Real-Time Monitoring for AWS Environment; https://github.com/HarrietKerubo/Monit
 
 https://www.linkedin.com/pulse/week-5-security-logging-monitoring-harriet-kerubo-ap78c
 
+https://www.linkedin.com/pulse/security-monitoring-cloud-harriet-kerubo-xmewf
+
 ## Certifications
 
 - AWS Cloud Practitioner:  https://www.credly.com/badges/54abc0ce-176f-4ef3-8bc3-2eaead9c9cf2
