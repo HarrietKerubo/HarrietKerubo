@@ -14,6 +14,8 @@ Preventing accidental exposure to sensitive credentials using AWS Secrets Manage
 
 Real-Time Monitoring for AWS Environment; https://github.com/HarrietKerubo/Monitoring-in-cloud
 
+Static website hosting on Amazon S3: https://github.com/HarrietKerubo/hosting-static-web-app-using-Amazon-S3
+
 ### Articles
 
 https://www.linkedin.com/pulse/week-5-security-logging-monitoring-harriet-kerubo-ap78c
